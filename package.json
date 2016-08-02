@@ -28,7 +28,7 @@
     "babel-types": "6.11.1",
     "babylon": "6.8.4",
     "lazy": "1.0.11",
-    "nativescript-dev-webpack": "0.0.19",
+    "nativescript-dev-webpack": "0.0.20",
     "typescript": "^1.8.10"
   }
 }

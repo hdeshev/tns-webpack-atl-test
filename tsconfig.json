@@ -8,6 +8,12 @@
         "noEmitHelpers": true,
         "noEmitOnError": false
     },
+    "awesomeTypescriptLoaderOptions": {
+        "forkChecker": true,
+        "disableFastEmit": false,
+        "doTypeCheck": true,
+        "useWebpackText": true
+    },
     "exclude": [
         "node_modules",
         "platforms"
